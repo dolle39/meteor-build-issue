@@ -18,5 +18,8 @@
       "server": "server/main.js"
     },
     "testModule": "tests/main.js"
+  },
+  "devDependencies": {
+    "puppeteer": "^1.20.0"
   }
 }
